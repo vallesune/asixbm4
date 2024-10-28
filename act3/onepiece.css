@@ -1,0 +1,134 @@
+body{
+    font-family: "Comic Sans CM"; font-size: 1.2em;
+    background: yellow;
+    margin: 0%;
+    padding-inline: 0%;
+}
+#header{
+  color: #0A7BA5;
+  font-family: "Comic Sans CM";
+  background: lightgray;
+  margin:0 10% 0% 10%;
+  margin-block-start: none;
+}
+#subheader{
+  margin:0 10% 0% 10%;
+  background: lightgray;
+}
+#logo{
+  text-align: center;
+  background-color:grey;
+  color:grey;
+  padding: 9px;
+  margin: 1em auto;
+  margin:0 10% 0% 10%;
+}
+#nav{
+  background:grey;
+  color:grey;
+  margin:0;
+  padding:0;
+  text-align: center;
+  margin:0 10% 0% 10%;
+}
+#nav li{
+  display:inline;
+  margin:0;
+  padding:0 2em;
+  border-right:1px solid;
+}  
+#nav li a{
+  color:orange;
+  text-decoration:none;
+}  
+#img1{
+  text-align: center;
+  background: rgb(231, 231, 231);
+  margin:0 10% 0% 10%;
+}
+#info{
+  margin:0 10% 0% 10%;
+  background: lightgrey;
+}
+#info img{
+  width: 100px;
+  height: 150px;
+  padding: 10px;
+}
+#info p a{
+  text-decoration: none;
+  color:black;
+}
+#curiositats{
+  margin:0 10% 0% 10%;
+  background: lightgrey;
+}
+#curiositats li{
+  padding-left: 1em;
+}
+#wiki {
+  margin:0 10% 0% 10%;
+  padding: 1em;
+  background: lightgrey;
+}
+dl{
+  margin:0 10% 0% 10%;
+  background: lightgrey;
+}
+dt {
+  font-size: 1em;
+  padding-left: 20px;
+  text-align: left;
+}
+dd{
+  padding-left:20px;
+  text-align: left;
+}
+dd a{
+  color: orange;
+  text-decoration: none;
+}
+dd img{
+  width: 100px;
+  height: 150px;
+}
+*.img{
+  text-align: center;
+}
+.saber {
+  text-align: center;
+  padding-bottom: 10px;
+}
+.saber a {
+  color: orange;
+  text-decoration: none;
+  padding: 5px 20px;
+  background-color: rgb(44, 43, 40); 
+}
+ul.arcs{
+  padding: 0 0.5em;
+  margin:0 10% 0% 10%;
+  background: lightgray;
+}
+ul.arcs li{
+  color:#0A7BA5;
+  font-family: "serif";
+  background: lightgray url("img/cine.png") 0 0.0em no-repeat;
+  padding-left: 5px;
+  list-style-type: none;
+  text-indent: 1.2em;
+}
+ul.arcs li li{
+  margin-left:0.5;
+  color:black;
+  background: none;
+  text-indent: -1em;
+  text-decoration: none;
+}
+#footer {
+  text-align: center;
+  background-color:#9955bc;
+  color:lightgrey;
+  padding: 9px;
+  margin: 0%;
+}

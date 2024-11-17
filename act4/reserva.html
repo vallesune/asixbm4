@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<html lang="ca">
+<head>
+	<meta charset="utf-8"/>
+	<title>Reserva</title>
+	<style>
+		@import url("estils.css");
+	</style>
+</head>
+<body>
+
+<!--falta tot el format de la pagina!(tipo lo verd capsalera i final)-->
+	
+	<ul id="nav">
+		<li><img src="img/RRLogo.png"></li>
+		<li><a href="index.html">Inici</a></li>
+		<li><a href="preus.html">Preus</a></li>
+		<li><a href="reserva.html">Reserva</a></li>
+	</ul>
+	
+	
+	<h1 id="titol">Reserve su habitacion en Rural Rooms</h1>
+	
+<label for="natureOfInquiry">Formalitat:</label>
+<select name="subject" class="medium" id="natureOfInquiry">
+<option value="Sr">Sr</option>
+<option value="Sra">Sra</option>
+<option value="Srta">Srta</option>
+</select>
+<form id="reserva-form"  method="post">
+<input type="hidden" name="redirect" value="" />
+	<ul>
+		<li>
+			<label for="name">Nom:</label>
+			<input type="text" name="name" id="name" value="" required />
+		</li>
+		<li>
+			<label for="name">Cognom:</label>
+			<input type="text" name="surname" id="surname" value="" required/>
+		</li>
+		<li>
+			<label for="name">Tèlefon:</label>
+			<input type="text" name="phone" id="phone" value="" />
+		</li>
+		<li>
+			<label for="email">Email:</label>
+			<input type="text" name="email" id="email" value="" required />
+		</li>
+		<li>
+			<label for="email">Confirma l'email:</label>
+			<input type="text" name="email2" id="email2" value="" required />
+		</li>
+		<li>
+			<label for="email">Contrasenya:</label>
+			<input type="password" name="password" id="password" value="" />
+		</li>
+	</ul>
+	<ul>
+		<li>
+			<label for="pers">Persones que sereu:</label>
+			<input type="number" min="1" max="3" required />
+		</li>
+		<li>
+			<label for="datain">Selecciona dia d'entrada:</label>
+			<input type="date" required>
+		</li>
+		<li>
+			<label for="dataout">Selecciona dia de sortida:</label>
+			<input type="date" required>
+		</li>
+		<li>
+			<label for="hora">Hora d'arribada:</label>
+			<input type="text" name="hora" id="hora" value="" />
+		<li>
+			<label for="comments">Peticions Especials:</label>
+			<textarea name="comments" id="comments" cols="25" rows="3"></textarea>
+		</li>
+	</ul>
+	<ul>
+		<li>Serveis extra per escollir:
+	<ul>
+		<li><label for="angry">Plaça de parking cobert.(hi ha la opcio gratis al exterior)  8€</label> <input type="checkbox" name="angry" id="angry" value="angry"></li>
+		<li><label for="sad">Esmorzars durant la estada. 5€</label> <input type="checkbox" name="sad" id="sad" value="sad"></li>
+	</ul>
+	</ul>
+	<label for="acctNone">Selecciona el tipus d'habitació:</label>
+	<fieldset>
+		<label for="acctGold">Habitacio tipus 1</label><input type="radio"
+		name="acct_type" id="goldAcct" class="rInput" />
+		<label for="acctSilver">Habitacio tipus 2</label><input type="radio"
+		name="acct_type" id="acctSilver" class="rInput" />
+		<label for="acctBronze">Hitacio tipus 3</label><input type="radio"
+		name="acct_type" id="acctBronze" class="rInput" />
+		<label for="acctNone">Habitacio tipus 4</label><input type="radio"
+		name="acct_type" id="acctNone" class="rInput" checked="checked" />
+	</fieldset>
+	<ul class="botons">
+		<li>
+			<input type="submit" value="enviar" />
+			<input type="reset" value="reset" />
+		</li>
+	</ul>
+</form>
+<div id="footer">
+	<p>Activitat realizada por Valle Suñe </p>
+	<p>Fotografies de la portada <a href="https://unsplash.com/">Unsplash</a>
+	<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="img/cc.png"></a></p>
+</div>
+</body>
+</html>

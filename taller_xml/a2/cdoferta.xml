@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<cds>
+	<cd>
+		<titol>
+			Still got the blues
+		</titol>
+		<artista>
+		 	Gary Moore
+		</artista>
+		<pais>
+			UK
+		</pais>
+		<companya>
+			Virgin records
+		</companya>
+		<preu>
+			10.20
+		</preu>
+		<any>
+			1990
+		</any>
+	</cd>
+	<cd>
+		<titol>
+			One night only
+		</titol>
+		<artista>
+		 	Bee Gees
+		</artista>
+		<pais>
+			UK
+		</pais>
+		<companya>
+			Polydor
+		</companya>
+		<preu>
+			10.90
+		</preu>
+		<any>
+			1998
+		</any>
+	</cd>
+	<cd>
+		<titol>
+			When a man loves a woman
+		</titol>
+		<artista>
+		 	Percy Stedge
+		</artista>
+		<pais>
+			USA
+		</pais>
+		<companya>
+			Atlantic
+		</companya>
+		<preu>
+			8.70
+		</preu>
+		<any>
+			1987
+		</any>
+	</cd>
+	<cd>
+		<titol>
+			Big Willie style
+		</titol>
+		<artista>
+		 	Will Smith
+		</artista>
+		<pais>
+			USA
+		</pais>
+		<companya>
+			Columbia
+		</companya>
+		<preu>
+			9.90
+		</preu>
+		<any>
+			1997
+		</any>
+	</cd>
+	<cd>
+		<titol>
+			La canción de Juan Perro
+		</titol>
+		<artista>
+		 	Radio Futura
+		</artista>
+		<pais>
+			España
+		</pais>
+		<companya>
+			Sony Music Ariola
+		</companya>
+		<preu>
+			9.90
+		</preu>
+		<any>
+			1987
+		</any>
+	</cd>
+	<cd>
+		<titol>
+			The dock of the bay
+		</titol>
+		<artista>
+		 	Otis Redding
+		</artista>
+		<pais>
+			USA
+		</pais>
+		<companya>
+			Atlantic
+		</companya>
+		<preu>
+			7.90
+		</preu>
+		<any>
+			1987
+		</any>
+	</cd>
+</cds>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recetari>
+	<recepta id="pastis de chocolata">
+		<nom>pastis de chocolata</nom>
+		<ingredients>
+			<ingredient>6 rovells d'ou</ingredient>
+			<ingredient>6 clares</ingredient>
+			<ingredient>150g de sucre</ingredient>
+			<ingredient>200g de xocolata negra</ingredient>
+			<ingredient>50g de mantega</ingredient>
+			<ingredient>farina</ingredient>
+			<ingredient>nata muntada</ingredient>
+			<ingredient>cacau en pols</ingredient>
+		</ingredients>
+		<preparacio>
+			<pas>1.Per començar, barregeu els rovells d'ou amb el sucre en un bol</pas>
+			<pas>2.Mentrestant, foneu la cobertura de xocolata al bany maria. Quan la xocolata s'hagi desfet, afegiu-hi la mantega i remeneu-ho. Tot seguit, munteu les clares que haureu tingut a la nevera perque es muntin be.</pas>
+			<pas>3.A continuació, barregeu la xocolata, els rovells i el sucre i les clares muntades. Remeneu-ho i poseu-ho en un motllo per al forn.</pas>
+			<pas>4.Deixeu-ho coure al forn a 180 graus durant 30 minuts. Després, deixeu refredar el pastis, desemmotileu-lo i emplateu-lo. 1 ja per acabar, decoreu-lo amb nata muntada i cacau en pols.</pas>
+		</preparacio>
+		<nota>Recepta del programa de TV3 Cuines, del restaurant Les Petxines.</nota>
+		<autors>
+			<autor>Barbara Casanovas</autor>
+			<autor>Adria Ruscalleda</autor>
+		</autors>
+		<etiquetes>
+			<etiqueta>Postre</etiqueta>
+			<etiqueta>Dolços</etiqueta>
+			<etiqueta>Forn</etiqueta>
+			<etiqueta>Aniversari</etiqueta>
+			<etiqueta>Facil</etiqueta>
+			<etiqueta>Economic</etiqueta>
+		</etiquetes>
+	</recepta>
+	<recepta id="volca chocolata">
+		<nom>volca de chocolata</nom>
+		<ingredients>
+			<ingredient>4 ous</ingredient>
+			<ingredient>4 rovells</ingredient>
+			<ingredient>80g sucre</ingredient>
+			<ingredient>220g de mantega</ingredient>
+			<ingredient>220g de xocolata</ingredient>
+			<ingredient>60g de farina</ingredient>
+		</ingredients>
+		<preparacio>
+			<pas>1.Foneu al bany maria la xocolata i la mantega. Un cop fora del foc.</pas>
+			<pas>2.Munteu les clares, afegint-hi el sucre, quan comencin a agafar cos.</pas>
+			<pas>3.Barregeu la meitat de les clares muntades amb la xocolata. Incorporeu-hi la ferina ¡la resta de les clares.</pas>
+			<pas>4.Pinteu motlles individuals amb mantega i farina, farciu-los amb la pasta fíns la meitat i disposeu al centre un dau de xocolata. Acabeu de farcir una mica més els motlles per a amagar el dau de xocolata.</pas>
+			<pas>5.Coeu a 220º (forn només amb escalfor de baix) durant uns 10 minuts aproximadament.</pas>
+			<pas>6.Servir calent, empolvorat de sucre llustre i acompanyat d'una salseta o de gelat</pas>
+		</preparacio>
+		<nota></nota>
+		<autors>
+			<autor>anna</autor>
+		</autors>
+		<etiquetes>
+			<etiqueta>Postre</etiqueta>
+			<etiqueta>Dolços</etiqueta>
+			<etiqueta>Festa</etiqueta>
+			<etiqueta>Facil</etiqueta>
+			<etiqueta>Economic</etiqueta>
+			<etiqueta>Catalana</etiqueta>
+			<etiqueta>Preparacio: 30 min</etiqueta>
+			<etiqueta>Cost: 15€</etiqueta>
+			<etiqueta>220 calories</etiqueta>
+		</etiquetes>
+	</recepta>
+	<recepta id="pastis formatge">
+		<nom>pastis de formatge</nom>
+		<ingredients>
+			<ingredient>2 terrines Philadelphia(200-300gr.)</ingredient>
+			<ingredient>3 ous</ingredient>
+			<ingredient>3 iogurts naturals</ingredient>
+			<ingredient>3 cullerades de farina</ingredient>
+			<ingredient>10 o 12 culleretes de sucre</ingredient>
+			<ingredient>un parell de galetes Maria o Chiquilin</ingredient>
+		</ingredients>
+		<preparacio>
+			<pas>1.El primer que hem de fer és escalfar el forn a 200 oraus.
+Euidem les terres de Philadelphia en un boli remenem bé el
+formatge.
+</pas>
+			<pas>2.Agatem els 3 0us, els afegim ¡els remenen amb el formatge.
+Aro efegim els 3 togurts naturals a la berrejo ¡ omem 2.
+</pas>
+			<pas>3.Quan tinguem una pasta homegénia, hi poser la farna ¡el
+uere ¡ho remenem tot fine que no queden grumoll.
+</pas>
+			<pas>4.Creparem el mote untant-o bé amb mantega. Triturem lez
+galetes les reparim per tota la base del motle..</pas>
+			<pas>5.Seguidament, hi evoquem la barreja que tenim ja preparada.
+Esiemelorn = 1707 1 colelequem el paztí
+</pas>
+			<pas>6.Esperem uns 20 o 30 minuts. Com que la cocció depér de la
+peténcia del forn, la milor manera per saber sí el past está
+fet és punxar-lo pel mg amb algun Instrument en forma de
+puma, 0 un escuradents! quan ens surii net vol dir que ja.
+Terim el paste enllest..</pas>
+			<pas>7.El dexxem refredar el reirem del metlle</pas>
+			<pas>8.Ens el podem menjar solo bé afegir- una capa molt fna de
+melmetada de madura o gerda.</pas>
+		</preparacio>
+		<nota>Una delicia pels mes formatgers!!</nota>
+		<autors>
+			<autor>eulalia</autor>
+		</autors>
+		<etiquetes>
+			<etiqueta>Postre</etiqueta>
+		</etiquetes>
+	</recepta>
+</recetari>

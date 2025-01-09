@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<presupostos>
+        <presupost id="1">
+            <components>
+                <component tipus="placa_base">
+                	<nom>ASUS ROG</nom>
+                	<preu>480</preu>
+                </component>
+                <component tipus="processador">
+                        <nom>Intel Core i9</nom>
+                	<preu>620</preu>
+                </component>
+                <component tipus="memoria_ram">
+                	<nom>Corsair Vengearance 2x16gb</nom>
+                	<preu>75</preu>
+                </component>
+                <component tipus="disc_dur">
+                	<nom>Kingston 960gb</nom>
+                	<preu>69</preu>
+                </component>
+                <component tipus="targeta_grafica">
+                	<nom>GeForce RTX 3050</nom>
+                	<preu>207</preu>
+                </component>
+                <component tipus="targeta_so">
+                	<nom>Targeta Creative Sound</nom>
+                	<preu>110</preu>
+                </component>
+            </components>
+            <total>1560</total>
+        </presupost>
+        <presupost id="2">
+            <components>
+                <component tipus="placa_base">
+                	<nom>Asus Rog</nom>
+                	<preu>400</preu>
+                </component>
+                <component tipus="processador">
+                        <nom>Intel Core i9</nom>
+                	<preu>620</preu>
+                </component>
+                <component tipus="memoria_ram">
+                	<nom>Kingston Fury 2x16gb</nom>
+                	<preu>163</preu>
+                </component>
+                <component tipus="disc_dur">
+                	<nom>Crucial 1tb</nom>
+                	<preu>62</preu>
+                </component>
+                <component tipus="targeta_grafica">
+                	<nom>GeForce RTX 4070</nom>
+                	<preu>616</preu>
+                </component>
+                <component tipus="targeta_so">
+                	<nom>Targeta Creative Sound</nom>
+                	<preu>110</preu>
+                </component>
+            </components>
+            <total>1971</total>
+        </presupost>
+    </presupostos>

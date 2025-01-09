@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<futbol>
+	<lliga id="bbva">
+		<jornades>	
+			<jornada>
+	 			<partits>
+					<partit>
+						<equips>
+							<equip>Reial Societat</equip>
+							<equip>Getafe</equip>
+						</equips>
+						<resultat>2 - 0</resultat>
+					</partit>
+					<partit> 
+						<equips>
+							<equip>Valencia</equip>
+							<equip>Malaga</equip>
+						</equips>
+						<resultat>1 - 0</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Osasuna</equip>
+							<equip>Granada</equip>
+						</equips>
+						<resultat>1 - 2</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Sevilla</equip>
+							<equip>Atletico</equip>
+						</equips>
+						<resultat>1 - 3</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Celta</equip>
+							<equip>Espanyol</equip>
+						</equips>
+						<resultat>2 - 2</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Valladolid</equip>
+							<equip>Athletic</equip>
+						</equips>
+						<resultat>1 - 0</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>FC Barcelona</equip>
+							<equip>Levante</equip>
+						</equips>
+						<resultat>7 - 0</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>R. Madrid</equip>
+							<equip>Betis</equip>
+						</equips>
+						<resultat>2 - 1</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Rayo</equip>
+							<equip>Elche</equip>
+						</equips>
+						<resultat>3 - 0</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Almeria</equip>
+							<equip>Villarreal</equip>
+						</equips>
+						<resultat>2 - 3</resultat>
+					</partit>
+	 			</partits>
+			</jornada>
+			<jornada>
+	 			<partits>
+					<partit>
+						<equips>
+							<equip>Getafe</equip>
+							<equip>Almeria</equip>
+						</equips>
+						<resultat>2 - 2</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Elche</equip>
+							<equip>R. Sociedad</equip>
+						</equips>
+						<resultat>1 - 1</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Villarreal</equip>
+							<equip>Valladolid</equip>
+						</equips>
+						<resultat>2 - 1</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Malaga</equip>
+							<equip>FC Barcelona</equip>
+						</equips>
+						<resultat>0 - 1</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Betis</equip>
+							<equip>Celta</equip>
+						</equips>
+						<resultat>1 - 2</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Athletic</equip>
+							<equip>Osasuna</equip>
+						</equips>
+						<resultat>2 - 0</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Espanyol</equip>
+							<equip>Valencia</equip>
+						</equips>
+						<resultat>3 - 1</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Atlético</equip>
+							<equip>Rayo</equip>
+						</equips>
+						<resultat>5 - 0</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Levante</equip>
+							<equip>Sevilla</equip>
+						</equips>
+						<resultat>0 - 0</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Granada</equip>
+							<equip>R. Madrid</equip>
+						</equips>
+						<resultat>0 - 1</resultat>
+					</partit>
+	 			</partits>
+			</jornada>
+			<jornada>
+	 			<partits>
+					<partit>
+						<equips>
+							<equip>Rayo</equip>
+							<equip>Levante</equip>
+						</equips>
+						<resultat>1 - 2</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Celta</equip>
+							<equip>Granada</equip>
+						</equips>
+						<resultat>1 - 1</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Osasuna</equip>
+							<equip>Villarreal</equip>
+						</equips>
+						<resultat>0 - 3</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Espanyol</equip>
+							<equip>Betis</equip>
+						</equips>
+						<resultat>0 - 0</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Valencia</equip>
+							<equip>FC Barcelona</equip>
+						</equips>
+						<resultat>2 - 3</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Almeria</equip>
+							<equip>Elche</equip>
+						</equips>
+						<resultat>2 - 2</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Valladolid</equip>
+							<equip>Getafe</equip>
+						</equips>
+						<resultat>1 - 0</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>R. Madrid</equip>
+							<equip>Athletic</equip>
+						</equips>
+						<resultat>3 - 1</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>R. Sociedad</equip>
+							<equip>Atlético</equip>
+						</equips>
+						<resultat>1 - 2</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Sevilla</equip>
+							<equip>Málaga</equip>
+						</equips>
+						<resultat>2 - 2</resultat>
+					</partit>
+	 			</partits>
+			</jornada>
+			<jornada>
+	 			<partits>
+					<partit>
+						<equips>
+							<equip>Atlético</equip>
+							<equip>Almeria</equip>
+						</equips>
+						<resultat>4 - 2</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>FC Barcelona</equip>
+							<equip>Sevilla</equip>
+						</equips>
+						<resultat>3 - 2</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Granada</equip>
+							<equip>Espanyol</equip>
+						</equips>
+						<resultat>0 - 1</resultat>
+					</partit>
+					<partit>
+						<equips>
+							<equip>Málaga</equip>
+							<equip>Rayo</equip>
+						</equips>
+						<resultat>5 - 0</resultat>
+					</partit>
+					<partit> 
+						<equips>
+							<equip>Elche</equip>
+							<equip>Valladolid</equip>
+						</equips>
+						<resultat>0 - 0</resultat>
+					</partit>
+					<partit> 
+						<equips>
+							<equip>Levante</equip>
+							<equip>R. Sociedad</equip>
+						</equips>
+						<resultat>0 - 0</resultat>
+					</partit>
+					<partit>  
+						<equips>
+							<equip>Villarreal</equip>
+							<equip>R. Madrid</equip>
+						</equips>
+						<resultat>2 - 2</resultat>
+					</partit>
+					<partit>  
+						<equips>
+							<equip>Getafe</equip>
+							<equip>Osasuna</equip>
+						</equips>
+						<resultat>2 - 1</resultat>
+					</partit>
+					<partit> 
+						<equips>
+							<equip>Betis</equip>
+							<equip>Valencia</equip>
+						</equips>
+						<resultat>3 - 1</resultat>
+					</partit>
+					<partit>  
+						<equips>
+							<equip>Athletic</equip>
+							<equip>Celta</equip>
+						</equips>
+						<resultat>3 - 2</resultat>
+					</partit>
+	 			</partits>
+			</jornada>
+		</jornades>
+	</lliga>
+</futbol>

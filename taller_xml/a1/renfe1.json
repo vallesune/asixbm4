@@ -1,0 +1,71 @@
+{
+  "renfe": {
+    "tren": "R16",
+    "trajecte": {
+      "id": "Tortosa-Tarragona",
+      "dia": {
+        "id": "06.11.2023",
+        "viatges": [
+          {
+            "sortida": "09:23",
+            "arribada": "10:47",
+            "durada": "01:24"
+          },
+          {
+            "sortida": "11:32",
+            "arribada": "12:50",
+            "durada": "01:18",
+            "accesible": null
+          },
+          {
+            "sortida": "13:51",
+            "arribada": "15:00",
+            "durada": "01:09",
+            "accesible": null
+          },
+          {
+            "sortida": "15:37",
+            "arribada": "16:56",
+            "durada": "01:19"
+          },
+          {
+            "sortida": "16:32",
+            "arribada": "17:51",
+            "durada": "01:19",
+            "accesible": null
+          },
+          {
+            "sortida": "18:30",
+            "arribada": "19:51",
+            "durada": "01:21",
+            "accesible": null
+          },
+          {
+            "sortida": "20:55",
+            "arribada": "22:16",
+            "durada": "01:21"
+          }
+        ]
+      }
+    },
+    "tarifes": [
+      {
+        "tipus": "senzill",
+        "preu": "8,05e"
+      },
+      {
+        "tipus": "Bono Expres",
+        "preu": "57,05e"
+      },
+      {
+        "tipus": "Abonament Mensual",
+        "preu": "148,0e"
+      },
+      {
+        "tipus": "Abonament Trimestral",
+        "preu": "395,7e"
+      }
+    ]
+  }
+}
+
